@@ -73,7 +73,7 @@
         Powered by Your Company
     </div>
 
-    <img class="rectangular-logo" src="https://zjhdgjatwdddypnpuxvh.supabase.co/storage/v1/object/public/images/5thgenLogo.png" alt="Rectangular Logo">
+    <img class="rectangular-logo" src="https://zjhdgjatwdddypnpuxvh.supabase.co/storage/v1/object/public/images/5thgenLogo.png" alt="Rectangular Logo" size="50">
 
     <script>
         function closePage() {
